@@ -13,6 +13,9 @@
  *= require_tree .
  *= require_self
  */
-.bg-black {
-  background-color: #000;
+
+$color-black: #000;
+
+.bg-black{
+    background-color: $color-black;
 }
